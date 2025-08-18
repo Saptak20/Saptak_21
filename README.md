@@ -1,53 +1,68 @@
-# Saptak Mondal (AKA Saptak20)
+<!-- Header Banner -->
+<h1 align="center">Hi 👋, I'm Saptak</h1>
+<h3 align="center">AI • ML • IoT | Engineering Student | Problem Solver</h3>
 
-**AI-ML & IoT enthusiast**. Engineering student. Believes code should solve problems, not cloud them. 
-
----
-
-##  About Me
-- Final-year Computer Science Engineering student specializing in **Artificial Intelligence**, **Machine Learning**, and **Internet of Things**.
-- Thrives on complex problems—especially the ones conventional logic can’t fix.
-- Dry wit available on demand. No sugar.
-
----
-
-##  What I Do (AKA Projects)
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Batch2023-24** | Python programming lectures & lab compendium | Python, Jupyter |
-| **TB_Dataset** | TB data analysis | Pandas, Visualization |
-| **Private_ML_Project** | Underwater projectile prediction | Python, Data Science |
-| **Python_Assignment** | ML with Gen AI techniques | Python, ML |
-| **EDA_Assignment** | Exploratory data insights | Jupyter, Pandas |
-| **Car_Price_Prediction** | Price-prediction model for cars | Python, ML |
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;IoT+Explorer;Full-Stack+Learner;Always+Learning+New+Things">
+  </a>
+</p>
 
 ---
 
-##  Highlights
-- **Underwater projectile prediction**—because predicting trajectories is already hard in air.
-- **Gen AI ML toolkit**—teaching machines to be as unpredictable as humans.
-- **Solid grasp of EDA**—because insight beats guesswork.
+## 🚀 About Me  
+- 🎓 B.Tech CSE (AIML & IoT) @ GLA University  
+- 🤖 Passionate about **Machine Learning** and **IoT**  
+- 💡 Loves building **data-driven solutions** and experimenting with tech  
+- 🎯 Goal: Become an **AI/ML Engineer** with solid problem-solving skills  
+- ⚡ Fun fact: My debugging skills are faster than Windows updates  
 
 ---
 
-##  Tech Stack
-- **Languages**: Python (obvious but necessary)
-- **Frameworks & Tools**: Jupyter Notebook, Pandas, Matplotlib/seaborn, Scikit-learn
-- **Domains**: Data Analysis, Machine Learning, IoT modeling
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js" /><br>
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,figma,tensorflow" />
+</p>
 
 ---
 
-##  Want to Collaborate?
-Email [your.email@example.com] — or don’t. I’ll be here regardless.
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptak20&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak20&theme=radical" alt="Streak Stats" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak20&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-##  Numbers (Because metrics matter)
-- ⭐ Repositories: 9 (Yes, quantity > quality, but I promise the gems are there)
-- Follower count: 1 (Still more than zero—I call that progress)
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
 ---
 
-##  Bottom Line
-I build. I analyze. I optimize. I apologize for nothing—especially in README.
+## ⚡ Random Developer Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saptak20/Saptak20/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
