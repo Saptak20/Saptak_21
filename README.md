@@ -47,9 +47,9 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/saptak-mondal/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/SaptakMondal19"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:saptakmondal734@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
