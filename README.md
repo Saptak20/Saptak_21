@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - 🎓 B.Tech CSE (AI & ML) @ GLA University  
 - 🤖 Building **RAG pipelines, LLM agents, and AI APIs** that ship to production  
 - 🔥 Currently: **RAG Study Buddy · AI Misinformation Detector · AI Mock Interviewer**  
