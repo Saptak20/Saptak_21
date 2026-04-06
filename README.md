@@ -50,7 +50,7 @@
 
 ---
 
-## ⚡ Random Developer Quote  
+## ⚡ Food for Thought  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
